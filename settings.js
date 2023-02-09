@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/dinethsudarshana/Black-Dragon' //script l
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "Sticker By Black panther" //ur sticker watermark packname
 global.author = "dinaya Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 PANTHER 𝗗𝗥𝗔𝗚𝗢𝗡
+global.wm = "𝗕𝗟𝗔𝗖𝗞 PANTHER
  𝗜𝗡𝗖" //ur watermark
 
 // Other
